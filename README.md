@@ -79,7 +79,7 @@ Models are evaluated using:
 ```text
 House-Price-Prediction/
 │
-├── notebooks/
+├── notebook/
 │   └── v2AILab.ipynb
 │
 ├── data/
